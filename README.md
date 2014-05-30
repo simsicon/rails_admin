@@ -1,10 +1,4 @@
 # RailsAdmin
-[![Gem Version](https://badge.fury.io/rb/rails_admin.png)][gem]
-[![Build Status](https://secure.travis-ci.org/sferik/rails_admin.png?branch=master)][travis]
-[![Dependency Status](https://gemnasium.com/sferik/rails_admin.png?travis)][gemnasium]
-[![Code Climate](https://codeclimate.com/badge.png)][codeclimate]
-[![Pledgie](http://www.pledgie.com/campaigns/15917.png)][pledgie]
-[![Flattr](http://api.flattr.com/button/flattr-badge-large.png)][flattr]
 
 RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
 
